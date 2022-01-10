@@ -1,0 +1,5 @@
+# Code Owners for the kb-tf-policies repo.
+# [Github Docs](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/about-code-owners)
+
+# Global Owners - these will be added whenever a PR is raised for any content in this repo.
+* @fwang001
